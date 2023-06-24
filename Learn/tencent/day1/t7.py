@@ -1,5 +1,5 @@
 
-from pymongo import MongoClient,ASCENDING,DESCENDING
+from pymongo import MongoClient
 
 from pymongo.database import  Database
 

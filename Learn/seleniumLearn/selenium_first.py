@@ -1,15 +1,11 @@
-from selenium import webdriver
-
 import time
 
-from selenium.webdriver.common.by import By
-
-# 导入  keys 模块
-from selenium.webdriver.common.keys import Keys
-
+from selenium import webdriver
 # 设置Chrome 无界面浏览器
 from selenium.webdriver.chrome.options import Options
-
+from selenium.webdriver.common.by import By
+# 导入  keys 模块
+from selenium.webdriver.common.keys import Keys
 
 # driver = webdriver.PhantomJS()  # 未配置好  已homebrew 下载好了
 

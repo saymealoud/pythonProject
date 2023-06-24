@@ -1,5 +1,3 @@
-import urllib3
-
 from urllib3 import PoolManager, HTTPResponse
 
 pool = PoolManager()

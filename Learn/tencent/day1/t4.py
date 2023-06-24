@@ -1,6 +1,5 @@
-from urllib.request import Request,urlopen
 from urllib import parse
-
+from urllib.request import Request, urlopen
 
 url = 'http://httpbin.org/post'
 url = 'https://movie.douban.com/j/search_subjects'
